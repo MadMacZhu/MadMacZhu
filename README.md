@@ -29,7 +29,7 @@
 <img align="left" title="React" alt="React" width="50px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/react_logo.png" />
 <img align="left" title="Node.js" alt="Node.js" width="50px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/nodejs_logo.png" />
 <img align="left" title="SQL" alt="SQL" width="50px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/sql_logo.png" />
-<img align="left" title="Google Cloud" alt="GCP" width="50px" height="50px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/Logo-Google-Cloud.jpg" />
+<img align="left" title="Google Cloud" alt="GCP" width="50px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/gcp_logo2.png" />
 <img align="left" title="GitHub" alt="GitHub" width="50px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/github_logo.png" />
 <img align="left" title="Linux Terminal" alt="Terminal" width="50px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/terminal_logo.png" />
 
@@ -52,7 +52,7 @@
 # 我的职业资格认证：
 - **谷歌人工智能（Tensorflow）开发者认证：**
 
-<img display="inline-block" title="Tensorflow Developer Certificate" alt="Tensorflow" width="600px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/tensorflow_certificate.png" />
+<img display="block" margin="auto" title="Tensorflow Developer Certificate" alt="Tensorflow" width="600px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/tensorflow_certificate.png" />
 
 - **谷歌专业云数据工程师认证：**
 
