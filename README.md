@@ -21,8 +21,8 @@
 
 # 我使用的编程语言和工具:
 
-<img align="left" title="C++" alt="C++" width="50px" src="https://github.com/isocpp/logos/blob/master/cpp_logo.png" />
-<img align="left" title="Python" alt="Python" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
+<img align="left" title="C++" alt="C++" width="50px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/cpp_logo.png" />
+<img align="left" title="Python" alt="Python" width="50px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/Python_logo.svg" />
 <img align="left" title="HTML5" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" title="CSS3" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" title="JavaScript" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
