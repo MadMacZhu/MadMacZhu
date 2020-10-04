@@ -21,17 +21,17 @@
 
 # 我使用的编程语言和工具:
 
-<img align="left" title="C++" alt="C++" width="60px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/cpp_logo.png" />
-<img align="left" title="Python" alt="Python" width="60px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/Python_logo.svg" />
-<img align="left" title="HTML5" alt="HTML5" width="60px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/html_logo.png" />
-<img align="left" title="CSS3" alt="CSS3" width="60px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/css_logo.png" />
-<img align="left" title="JavaScript" alt="JavaScript" width="60px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/javascript_logo.png" />
-<img align="left" title="React" alt="React" width="60px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/react_logo.png" />
-<img align="left" title="Node.js" alt="Node.js" width="60px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/nodejs_logo.png" />
-<img align="left" title="SQL" alt="SQL" width="60px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/sql_logo.png" />
-<img align="left" title="Google Cloud" alt="GCP" width="60px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/google_cloud_logo.png" />
-<img align="left" title="GitHub" alt="GitHub" width="60px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/github_logo.png" />
-<img align="left" title="Linux Terminal" alt="Terminal" width="60px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/terminal_logo.png" />
+<img align="left" title="C++" alt="C++" width="50vw" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/cpp_logo.png" />
+<img align="left" title="Python" alt="Python" width="50px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/Python_logo.svg" />
+<img align="left" title="HTML5" alt="HTML5" width="50px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/html_logo.png" />
+<img align="left" title="CSS3" alt="CSS3" width="50px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/css_logo.png" />
+<img align="left" title="JavaScript" alt="JavaScript" width="50px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/javascript_logo.png" />
+<img align="left" title="React" alt="React" width="50px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/react_logo.png" />
+<img align="left" title="Node.js" alt="Node.js" width="50px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/nodejs_logo.png" />
+<img align="left" title="SQL" alt="SQL" width="50px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/sql_logo.png" />
+<img align="left" title="Google Cloud" alt="GCP" width="50px" height="50px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/Logo-Google-Cloud.jpg" />
+<img align="left" title="GitHub" alt="GitHub" width="50px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/github_logo.png" />
+<img align="left" title="Linux Terminal" alt="Terminal" width="50px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/terminal_logo.png" />
 
 <br />
 <br />
