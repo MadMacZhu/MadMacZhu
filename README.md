@@ -3,7 +3,7 @@
 <!--
 **MadMacZhu/MadMacZhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-# 我是一名数学教师，程序员，数据工程师，人工智能工程师
+# 本人数学专业，是一名教师，程序员，数据工程师，人工智能工程师
 
 - 🔭 **我主要的工作目标是**：利用云计算的基础架构，建立全层（Full-stack）的数据传输、存储、处理、建模、应用的解决方案。
 
@@ -49,3 +49,5 @@
 <br />
 
 # 我的职业证书：
+- **谷歌人工智能（Tensorflow）开发者认证：**
+- **谷歌专业云数据工程师认证：**
