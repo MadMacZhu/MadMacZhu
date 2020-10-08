@@ -56,3 +56,4 @@
 
 - **谷歌专业云数据工程师认证：**
 
+<img display="block" margin="auto" title="Google Cloud Certified Professional Data Engineer" alt="GCP" width="800px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/Google_Cloud_Professional_Data_Engineer.png" />
