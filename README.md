@@ -52,7 +52,7 @@
 # 我的职业资格认证：
 - **谷歌人工智能（Tensorflow）开发者认证：**
 
-<img display="block" margin="auto" title="Tensorflow Developer Certificate" alt="Tensorflow" width="800px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/tensorflow_certificate.png" />
+<img display="block" margin="auto" title="Tensorflow Developer Certificate" alt="Tensorflow" width="800px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/Google_Tensorflow_Developer.png" />
 
 - **谷歌专业云数据工程师认证：**
 
