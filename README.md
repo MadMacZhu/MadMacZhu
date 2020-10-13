@@ -50,6 +50,13 @@
 
 - **机器学习与深度学习项目**:
 
+-[`AI识别骚扰短信`](https://github.com/MadMacZhu/DeepLearning-SpamorHam)
+
+-[`AI识别名车商标`](https://github.com/MadMacZhu/DeepLearning---CarBrandPrediction)
+
+-[`AI客服自动聊天系统`](https://github.com/MadMacZhu/AI-Chatbot)
+
+-[`电影推荐系统`]
 
 ------
 
