@@ -56,7 +56,7 @@
 
 -[AI客服自动聊天系统](https://github.com/MadMacZhu/AI-Chatbot)
 
--[电影推荐系统]
+-[电影推荐系统](https://github.com/MadMacZhu/Movie-Recommender)
 
 ------
 
