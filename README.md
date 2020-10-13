@@ -44,19 +44,19 @@
 
 - **算法视觉化项目**：
 
--[`路径搜索算法视觉化`](https://github.com/MadMacZhu/Pathfinding-Algorithms-Visualizer)
+-[路径搜索算法视觉化](https://github.com/MadMacZhu/Pathfinding-Algorithms-Visualizer)
 
--[`排序算法视觉化`](https://github.com/MadMacZhu/Sorting-Algorithms-Visualizer)
+-[排序算法视觉化](https://github.com/MadMacZhu/Sorting-Algorithms-Visualizer)
 
 - **机器学习与深度学习项目**:
 
--[`AI识别骚扰短信`](https://github.com/MadMacZhu/DeepLearning-SpamorHam)
+-[AI识别骚扰短信](https://github.com/MadMacZhu/DeepLearning-SpamorHam)
 
--[`AI识别名车商标`](https://github.com/MadMacZhu/DeepLearning---CarBrandPrediction)
+-[AI识别名车商标](https://github.com/MadMacZhu/DeepLearning---CarBrandPrediction)
 
--[`AI客服自动聊天系统`](https://github.com/MadMacZhu/AI-Chatbot)
+-[AI客服自动聊天系统](https://github.com/MadMacZhu/AI-Chatbot)
 
--[`电影推荐系统`]
+-[电影推荐系统]
 
 ------
 
