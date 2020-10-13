@@ -42,8 +42,14 @@
 
 # 我的项目经历：
 
-- **机器学习与深度学习项目**:
 - **算法视觉化项目**：
+
+-[`路径搜索算法视觉化`](https://github.com/MadMacZhu/Pathfinding-Algorithms-Visualizer)
+
+-[`排序算法视觉化`](https://github.com/MadMacZhu/Sorting-Algorithms-Visualizer)
+
+- **机器学习与深度学习项目**:
+
 
 ------
 
