@@ -29,7 +29,7 @@
 <img align="left" title="React" alt="React" width="50px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/react_logo.png" />
 <img align="left" title="Node.js" alt="Node.js" width="50px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/nodejs_logo.png" />
 <img align="left" title="OpenCV" alt="OpenCV" height="50px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/opencv.png" />
-<img align="left" title="Tensorflow" alt="Tensorflow" height="50px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/tensorflow.png" />
+<img align="left" title="Tensorflow" alt="Tensorflow" height="50px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/TensorFlow_Logo.png" />
 <img align="left" title="SQL" alt="SQL" width="50px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/sql_logo.png" />
 <img align="left" title="Google Cloud" alt="GCP" width="50px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/gcp_logo2.png" />
 <img align="left" title="Linux Terminal" alt="Terminal" width="50px" src="https://github.com/MadMacZhu/MadMacZhu/blob/main/Photos/terminal_logo.png" />
