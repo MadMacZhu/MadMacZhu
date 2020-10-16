@@ -48,15 +48,17 @@
 
 -[排序算法视觉化](https://github.com/MadMacZhu/Sorting-Algorithms-Visualizer)
 
-- **机器学习与深度学习项目**:
+- **自然语言处理项目**:
 
 -[AI骚扰短信识别系统](https://github.com/MadMacZhu/DeepLearning-SpamorHam)
 
--[AI名车商标识别系统](https://github.com/MadMacZhu/DeepLearning---CarBrandPrediction)
-
 -[AI客服自动聊天系统](https://github.com/MadMacZhu/AI-Chatbot)
 
--[电影推荐系统](https://github.com/MadMacZhu/Movie-Recommender)
+- **计算机视觉项目**：
+
+- [OpenCV人脸定位识别标注](https://github.com/MadMacZhu/OpenCV-Face-Recognition)
+
+- [AI识别名车商标](https://github.com/MadMacZhu/DeepLearning---CarBrandPrediction)
 
 ------
 
