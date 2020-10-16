@@ -50,9 +50,9 @@
 
 - **自然语言处理项目**:
 
--[AI骚扰短信识别系统](https://github.com/MadMacZhu/DeepLearning-SpamorHam)
+- [AI骚扰短信识别系统](https://github.com/MadMacZhu/DeepLearning-SpamorHam)
 
--[AI客服自动聊天系统](https://github.com/MadMacZhu/AI-Chatbot)
+- [AI客服自动聊天系统](https://github.com/MadMacZhu/AI-Chatbot)
 
 - **计算机视觉项目**：
 
