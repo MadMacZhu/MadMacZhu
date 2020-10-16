@@ -44,9 +44,9 @@
 
 - **算法视觉化项目**：
 
--[路径搜索算法视觉化](https://github.com/MadMacZhu/Pathfinding-Algorithms-Visualizer)
+- [路径搜索算法视觉化](https://github.com/MadMacZhu/Pathfinding-Algorithms-Visualizer)
 
--[排序算法视觉化](https://github.com/MadMacZhu/Sorting-Algorithms-Visualizer)
+- [排序算法视觉化](https://github.com/MadMacZhu/Sorting-Algorithms-Visualizer)
 
 - **自然语言处理项目**:
 
