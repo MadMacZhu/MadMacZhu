@@ -59,7 +59,7 @@
 
 - [OpenCV人脸定位识别标注](https://github.com/MadMacZhu/OpenCV-Face-Recognition)
 
-- [AI识别名车商标](https://github.com/MadMacZhu/DeepLearning---CarBrandPrediction)
+- [OpenCV/CNN路标识别](https://github.com/MadMacZhu/OpenCV-CNN-RoadSign-Recognition)
 
 ------
 
